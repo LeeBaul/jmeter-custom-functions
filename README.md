@@ -15,14 +15,14 @@ jmeter-custom-functions 定制函数。
 
 1.   **__SteppingShape函数** 
 
-![输入图片说明](src/main/resources/banner/image00.png)
+![输入图片说明](src/main/resources/images/image00.png)
 
-![输入图片说明](src/main/resources/banner/image01.png)
+![输入图片说明](src/main/resources/images/image01.png)
 
 2.   **__效果图**
 
-![输入图片说明](src/main/resources/banner/image02.png)
-![输入图片说明](src/main/resources/banner/image03.png)
+![输入图片说明](src/main/resources/images/image02.png)
+![输入图片说明](src/main/resources/images/image03.png)
 
 
 #### 参与贡献
