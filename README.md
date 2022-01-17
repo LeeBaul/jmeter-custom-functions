@@ -36,4 +36,4 @@ jmeter-custom-functions 定制函数。
 
 #### 我的公众号
 
-![输入图片说明](src/main/resources/banner/image04.png)
+![输入图片说明](src/main/resources/images/image04.png)
