@@ -19,7 +19,7 @@ jmeter-custom-functions 定制函数。
 
 ![输入图片说明](src/main/resources/images/image01.png)
 
-2.   **__效果图**
+2.   **效果图**
 
 ![输入图片说明](src/main/resources/images/image02.png)
 
